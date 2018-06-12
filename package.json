@@ -1,0 +1,8 @@
+{
+  "name": "reactPractice",
+  "version": "1.0.0",
+  "description": "React practice applications",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
